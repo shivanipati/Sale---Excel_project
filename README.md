@@ -23,7 +23,7 @@ The objective of this project is to create an interactive Excel Sales Dashboard 
 - Filters to explore specific metrics
   
 ## Dashboard
-"C:\Users\shivi\OneDrive\Pictures\Screenshots\Screenshot 2024-10-01 193515.png"
+
 
 
 
