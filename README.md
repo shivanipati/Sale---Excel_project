@@ -23,6 +23,9 @@ The objective of this project is to create an interactive Excel Sales Dashboard 
 - Filters to explore specific metrics
   
 ## Dashboard
+https://github.com/shivanipati/Sale---Excel_project/blob/main/Screenshot%202024-10-01%20193515.png
+
+
 
 
   
