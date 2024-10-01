@@ -6,4 +6,4 @@ The objective of this project is to create an interactive Excel Sales Dashboard 
 
 ## Dataset Used
 
-<a href="https://github.com/shivanipati/Sale---Excel_project/blob/main/Sales-Dashboard-practice.xlsx>Dataset<a/>
+<a href="https://github.com/shivanipati/Sale---Excel_project/blob/main/Sales-Dashboard-practice.xlsx">Dataset<a/>
