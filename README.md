@@ -24,6 +24,8 @@ The objective of this project is to create an interactive Excel Sales Dashboard 
   
 ## Dashboard
 
+![Screenshot 2024-10-01 193515](https://github.com/user-attachments/assets/b0a9ced0-e1d2-4e0f-8f2e-d31b4d99fdb7)
+
 
 
 
