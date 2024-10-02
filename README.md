@@ -11,10 +11,15 @@ The objective of this project is to create an interactive Excel Sales Dashboard 
 ## Question (KPIs)
 
 -Total Sales: The overall revenue generated over a specific period.
+
 -Sales Growth Rate: The percentage increase or decrease in sales over time.
+
 -Gross Profit Margin: The percentage of revenue left after subtracting the cost of goods sold.
+
 -Sales by Region: Performance of sales across different geographical areas.
+
 -Top-Selling Products: Products contributing the most to revenue.
+
 -Customer Acquisition Cost (CAC): The cost associated with acquiring a new customer.
 
 ## Features
